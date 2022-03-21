@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "title": "Eat",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "apple",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "green apple",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Reading",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Code",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Code",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Abhishek",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn react",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Learn HTML",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Learn CSS",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Learn Rust",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "Learn Bachanji",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "Learn Raghu Driver",
+      "status": false,
+      "id": 13
+    }
+  ]
+}
